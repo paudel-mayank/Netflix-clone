@@ -41,11 +41,7 @@ const Banner = () => {
         <h1 className="banner__description">
           {truncuate(movie?.overview, 150)}
         </h1>
-        {/* backimage */}
       </div>
-      {/* title */}
-      {/* div>button s*/}
-      {/* description */}
 
       <div className="banner--fadebottom" />
     </header>
